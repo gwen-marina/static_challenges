@@ -1,0 +1,73 @@
+#header {
+    background-color: #932c03;
+    width: 100%;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#head {
+    color: white;
+    font-size: 25px;
+    padding: 10px 0px 10px 15px;
+    float: left;
+}
+
+#login {
+    font-size: 10px;
+    text-align: right;
+    padding: 20px 20px 20px 0px;
+    float: right;
+}
+
+nav {
+    background-color: #0c0c0c;
+    width: 100%;
+    height: 40px;
+    font-size: 10px;  
+}
+
+li {
+    display: inline-block;
+    color: white;
+    float: right;
+    padding: 15px 10px 10px 10px;
+}
+
+#museum {
+    font-weight: bold;
+    font-size: larger;
+}
+
+section {
+    float: left;
+    width: 65%;
+    text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside {
+    float: right;
+    width: 25%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+}
+
+#bottom{
+    color: white;
+    position: fixed; 
+    background:black; 
+    width:100%;
+    bottom:0;
+}
+
+
+
